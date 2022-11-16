@@ -1,1 +1,3 @@
 Adding some text
+
+Adding more text to test committing with vscode
